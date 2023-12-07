@@ -1,0 +1,3 @@
+[submodule "Documentation/Zigbee"]
+	path = Documentation/Zigbee
+	url = https://github.com/brian-silabs/ZigbeeDocumentation.git
