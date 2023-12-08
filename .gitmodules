@@ -10,3 +10,6 @@
 [submodule "Bluetooth"]
 	path = Bluetooth
 	url = https://github.com/brian-silabs/BluetoothDocumentation.git
+[submodule "DevTools"]
+	path = DevTools
+	url = https://github.com/brian-silabs/DevToolsDocumentation.git
