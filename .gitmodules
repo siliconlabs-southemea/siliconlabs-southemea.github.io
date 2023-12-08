@@ -19,3 +19,6 @@
 [submodule "ProprietaryRF"]
 	path = ProprietaryRF
 	url = https://github.com/brian-silabs/ProprietaryRFDocumentation.git
+[submodule "MCUPeripherals"]
+	path = MCUPeripherals
+	url = https://github.com/brian-silabs/MCUPeripheralsDocumentation.git
