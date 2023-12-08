@@ -4,3 +4,6 @@
 [submodule "OpenThread"]
 	path = OpenThread
 	url = https://github.com/brian-silabs/OpenThreadDocumentation.git
+[submodule "EnergyHarvesting"]
+	path = EnergyHarvesting
+	url = https://github.com/brian-silabs/EnergyHarvestingDocumentation.git
