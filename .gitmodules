@@ -16,3 +16,6 @@
 [submodule "WiFi"]
 	path = WiFi
 	url = https://github.com/brian-silabs/WiFiDocumentation.git
+[submodule "ProprietaryRF"]
+	path = ProprietaryRF
+	url = https://github.com/brian-silabs/ProprietaryRFDocumentation.git
