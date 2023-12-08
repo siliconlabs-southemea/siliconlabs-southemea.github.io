@@ -13,3 +13,6 @@
 [submodule "DevTools"]
 	path = DevTools
 	url = https://github.com/brian-silabs/DevToolsDocumentation.git
+[submodule "WiFi"]
+	path = WiFi
+	url = https://github.com/brian-silabs/WiFiDocumentation.git
