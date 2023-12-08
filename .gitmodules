@@ -1,3 +1,6 @@
 [submodule "Zigbee"]
 	path = Zigbee
 	url = https://github.com/brian-silabs/ZigbeeDocumentation.git
+[submodule "OpenThread"]
+	path = OpenThread
+	url = https://github.com/brian-silabs/OpenThreadDocumentation.git
