@@ -22,3 +22,6 @@
 [submodule "MCUPeripherals"]
 	path = MCUPeripherals
 	url = https://github.com/siliconlabs-southemea/MCUPeripheralsDocumentation.git
+[submodule "SecurityDocumentation"]
+	path = SecurityDocumentation
+	url = https://github.com/siliconlabs-southemea/SecurityDocumentation.git
