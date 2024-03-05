@@ -1,6 +1,6 @@
 <img src="assets/images/homepage_logo.png" alt="Silicon Labs Logo" width="200">
 
-# South Europe FAE Team Documentation
+# South Europe FAE Team Documentation 
 
 To contribute to this documentation repo :
 
