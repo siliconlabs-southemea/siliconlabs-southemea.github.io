@@ -11,15 +11,15 @@ git submodule update --init
 git submodule foreach git checkout main
 ```
 
-Contribution Flow for Collaborators : 
+Contribution Flow for Collaborators :
 
-1. Always Pull repos prior to any commit or push
+1. Always Pull-Rebase repos prior to any push
    If git reports an error, uncommit the last one an pull
    Re-commit
 2. Stage only the files that you have been working on
 3. Push
 
-On VSCode Source Conrtol this results in : 
+On VSCode Source Conrtol this results in :
 
 Initial Pull on all Submodules
 
