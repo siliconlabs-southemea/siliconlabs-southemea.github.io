@@ -7,6 +7,7 @@ theme: null
 #   compress: true
 #   dist: false
 #   shortcodes: true
+debug: true
 
 readme_index:
   with_frontmatter: true
